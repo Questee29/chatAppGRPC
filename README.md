@@ -1,2 +1,2 @@
 # chatAppGRPC
-simple chattService with client and service using gPRC
+simple chattService with client and serv using gPRC
